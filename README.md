@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Arzu ÜNÜVAR 💻 </h1>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/arzu-%C3%BCn%C3%BCvar-889054192/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/arzu-ünüvar-889054192"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   
 </p>
 
