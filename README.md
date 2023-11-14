@@ -1,3 +1,5 @@
+<img align="right" src="https://z3-work.translate.goog/seferist/metronic-demo-6/assets/media/illustrations/sketchy-1/17.png" width="250" height="200" />
+
 <h1 align='center'> Hi there, I'm Arzu ÜNÜVAR 👋 💻 </h1>
 
 <p align='center'>
